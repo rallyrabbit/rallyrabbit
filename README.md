@@ -1,10 +1,10 @@
 # Hello, Hola, Hallo, Γεια σας Привет👋
 
 - 🔭 I’m currently working on a currently private calculator software derivative of WP-34S and a port of LunarVim to Windows for use with NeoVim
-- 🌱 I’m currently learning Lua, Atari 2600 Assembly and Azure/AWS Cloud technologiers
-- 👯 I’m looking to collaborate on SolarVim and LunarVim
+- 🌱 I’m currently learning Lua and continuing learning on Azure/AWS Cloud technologiers
+- 👯 I’m looking to collaborate on SolarVim and LunarVim, finish new features on the calculator, and write an Atari 2600 port Elevator Action
 - 🤔 I’m looking for help with ...?
-- 💬 Ask me about ... C and Assembly programming
+- 💬 Ask me about ... C, C++, and Assembly programming
 
 # Languages and Tools I Use:
 <p align="center">
