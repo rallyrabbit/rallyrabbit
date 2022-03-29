@@ -1,4 +1,4 @@
-# Hello, Hola, Hallo, Γεια σας 👋
+# Hello, Hola, Hallo, Γεια σας Привет👋
 
 - 🔭 I’m currently working on a currently private calculator software derivative of WP-34S and a port of LunarVim to Windows for use with NeoVim
 - 🌱 I’m currently learning Lua, Atari 2600 Assembly and Azure/AWS Cloud technologiers
